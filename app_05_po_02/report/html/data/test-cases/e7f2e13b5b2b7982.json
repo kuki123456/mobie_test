@@ -1,0 +1,121 @@
+{
+  "uid" : "e7f2e13b5b2b7982",
+  "name" : "TestContact.test_contact[argus2]",
+  "fullName" : "scripts.test_contact.TestContact.test_contact[argus2]",
+  "historyId" : "878a5cf55ec2d2481b545f5df0fb5ff8",
+  "time" : {
+    "start" : 1559702432451,
+    "stop" : 1559702468440,
+    "duration" : 35989
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击增加信息",
+      "time" : {
+        "start" : 1559702444431,
+        "stop" : 1559702446745,
+        "duration" : 2314
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "输入姓名",
+      "time" : {
+        "start" : 1559702446745,
+        "stop" : 1559702452216,
+        "duration" : 5471
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "输入电话",
+      "time" : {
+        "start" : 1559702452216,
+        "stop" : 1559702465395,
+        "duration" : 13179
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "98f3c3e179bb6b6a",
+        "name" : "截图：",
+        "source" : "98f3c3e179bb6b6a.png",
+        "type" : "image/png",
+        "size" : 125928
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "KUKI"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "14460-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestContact.test_contact[argus2]"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e7f2e13b5b2b7982.json",
+  "parameterValues" : [ ]
+}

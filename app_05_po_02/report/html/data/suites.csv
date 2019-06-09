@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_contact.TestContact.test_contact[argus1]","36078",""
+"passed","scripts.test_contact.TestContact.test_contact[argus2]","35989",""
+"passed","scripts.test_contact.TestContact.test_contact[argus0]","78640",""

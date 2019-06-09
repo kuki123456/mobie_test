@@ -1,0 +1,25 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560045578071" stop="1560045578072">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1560045578072" status="broken" stop="1560045578072">
+      <name>test_contact</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\_pytest\python.py:468: in _importtestmodule
+    mod = self.fspath.pyimport(ensuresyspath=importmode)
+C:\Users\Administrator\AppData\Local\Programs\Python\Python37\lib\site-packages\py\_path\local.py:701: in pyimport
+    __import__(modname)
+E     File "D:\app_05_po_02\scripts\test_contact.py", line 27
+E       
+E       ^
+E   SyntaxError: unexpected EOF while parsing</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
