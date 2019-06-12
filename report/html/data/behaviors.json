@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : ".Users.Yoson.Desktop.奥莱商城.scripts.test_vip.TestVip.test_vip[args0]",
+    "uid" : "dc6cf8ba2294df49",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1559577561672,
+      "stop" : 1559577576636,
+      "duration" : 14964
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : ".Users.Yoson.Desktop.奥莱商城.scripts.test_vip.TestVip.test_vip[args1]",
+    "uid" : "a4cffa743e795797",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1559577579290,
+      "stop" : 1559577604186,
+      "duration" : 24896
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

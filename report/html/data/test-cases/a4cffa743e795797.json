@@ -1,0 +1,145 @@
+{
+  "uid" : "a4cffa743e795797",
+  "name" : ".Users.Yoson.Desktop.奥莱商城.scripts.test_vip.TestVip.test_vip[args1]",
+  "fullName" : "scripts..Users.Yoson.Desktop.奥莱商城.scripts.test_vip.TestVip.test_vip[args1]",
+  "historyId" : "36ce12b22cd635464e3938c01cf7fdaf",
+  "time" : {
+    "start" : 1559577579290,
+    "stop" : 1559577604186,
+    "duration" : 24896
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "主页 登录（如果没有登录的话）",
+      "time" : {
+        "start" : 1559577596394,
+        "stop" : 1559577597884,
+        "duration" : 1490
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "主页 点击 我",
+        "time" : {
+          "start" : 1559577596394,
+          "stop" : 1559577597784,
+          "duration" : 1390
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "我 点击 加入vip",
+      "time" : {
+        "start" : 1559577597884,
+        "stop" : 1559577601438,
+        "duration" : 3554
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "vip页面 输入 邀请码",
+      "time" : {
+        "start" : 1559577601984,
+        "stop" : 1559577602987,
+        "duration" : 1003
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "vip页面 输入 成为会员",
+      "time" : {
+        "start" : 1559577602987,
+        "stop" : 1559577603282,
+        "duration" : 295
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "itheima-2.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "12258-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : ".Users.Yoson.Desktop.奥莱商城.scripts.test_vip.TestVip.test_vip[args1]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4cffa743e795797.json",
+  "parameterValues" : [ ]
+}
